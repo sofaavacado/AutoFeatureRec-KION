@@ -118,4 +118,4 @@
 
 ## Источник данных
 
-- [KION_DATASET — GitHub](https://github.com/irsafilo/KION_DATASET). Это ссылка на исходный датасет, а не утверждение о результатах сторонней научной статьи. В отчёт намеренно не добавлены непроверенные библиографические ссылки.
+- [KION_DATASET — GitHub](https://github.com/irsafilo/KION_DATASET). Это ссылка на исходный датасет.
