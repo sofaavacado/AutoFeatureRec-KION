@@ -1,0 +1,5 @@
+model,candidate_protocol,seed,features,ROC-AUC,LogLoss,NDCG@10
+Popularity,popularity_weighted_test,4049,1,0.629242,0.402773,0.340534
+Manual,popularity_weighted_test,4049,17,0.705094,0.347039,0.40743
+Manual_plus_behavior,popularity_weighted_test,4049,92,0.703646,0.352883,0.408162
+FamilySearch,popularity_weighted_test,4049,57,0.704135,0.344025,0.405954
