@@ -1,0 +1,2 @@
+model,seed,families,n_features,ROC-AUC,LogLoss,NDCG@10
+FamilySearch,4049,counts,57,0.8910296999277657,0.15053568226550643,0.726470102022217
