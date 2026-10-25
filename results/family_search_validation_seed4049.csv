@@ -1,8 +1,0 @@
-step,family,n_features,validation_ndcg,fit_seconds,accepted
-1,relative_share,24,0.712986,23.069426,False
-1,recency,45,0.713241,25.585713,False
-1,behavior,157,0.714044,43.893026,False
-1,counts,57,0.714972,26.352495,True
-2,relative_share,64,0.715298,27.376104,False
-2,recency,85,0.713961,30.313379,False
-2,behavior,197,0.71505,48.377556,False

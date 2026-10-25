@@ -1,5 +1,0 @@
-model,features,ROC-AUC,LogLoss,NDCG@10
-Popularity,1,0.857447,0.171243,0.66532
-Manual,17,0.880403,0.153275,0.712939
-Manual_plus_behavior,92,0.881008,0.154386,0.714604
-Auto_all,232,0.88207,0.153878,0.714377
